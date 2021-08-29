@@ -387,7 +387,7 @@ Configure the marketplace plugin
 
 Visit your lnbits domain name and create a wallet. I named mine “Admin wallet” but you can name yours whatever you want. Click Manage extensions. Activate User Manager. Click your wallet’s name (e.g. Admin wallet) in the lefthand sidebar. Click API Info in the righthand sidebar. Note your admin key and note the “usr” parameter in the url.
 
-![lnbits](https://lh3.googleusercontent.com/keep-bbsk/AGk0z-M7bN4SQ_4Dpb99fK3CtbmZHv8UvtRLJN4ebFus_6Ez4OME2FvvqW28Mtm2OOM6P8XwXLFB5CdRfxU0wuaJxw1-GYvWVnp0LYiIGak=s512)
+![lnbits](https://github.com/simong1080/friendica-marketplace/blob/main/lnbits.png)
 
 You will use those values in a few moments.
 
